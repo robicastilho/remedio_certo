@@ -3,7 +3,7 @@
 ## 📌 TL;DR – O Projeto em 6 Pontos Rápidos
 
 1. **Problema real:** desde 1973 a ilegibilidade da prescrição é uma infração à lei. Mas receitas médicas manuscritas e ilegíveis ainda são comuns no Brasil e causam riscos à saúde por má interpretação.
-2. **Motivação pessoal:** nasceu da experiência do autor com as receitas do psiquiatra do pai, que enfrentou demência por quase 20 anos.
+2. **Motivação pessoal:** nasceu da minha experiência com as receitas do psiquiatra do meu pai, que enfrentou demência por quase 20 anos.
 3. **Tudo feito com IA:** desde a pesquisa inicial (legislação, viabilidade e soluções existentes) até o desenvolvimento técnico e este README.
 4. **Como funciona?:** o paciente envia a foto da receita e recebe de volta uma transcrição compreensível com ajuda da IA. Recebe também preços e links para adquirir o medicamento.
 5. **Tecnês:**  Usei Agentes de IA para analisar a entrada do usuário, a imagem da receita (multimodal) e os preços (usando tool=google_search). Técnicas de prompt como *Chain of Thought* e *Few-shot*. Fiz uma versão para Colab e outra para Google Cloud (com Integração com WhatsApp para democratizar a solução)
