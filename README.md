@@ -25,7 +25,7 @@ A lei brasileira até exige que a receita seja legível, mas quem nunca pegou um
 
 A faísca para o **Remedio Certo** veio de uma experiência muito pessoal e marcante. Meu pai (que virou anjinho em 2023 🙏), batalhou contra uma demência por quase 20 anos. Era muito difícil lidar com as receitas do psiquiatra dele! Tiveram vezes que o farmacêutico precisou ligar para o consultório para confirmar qual era o medicamento ou a dose... Aquilo me angustiava demais.
 
-Foi pensando nele 👼🏻, e em tantas outras pessoas que enfrentam essa mesma barra, que eu escolhi esse projeto! E desde o primeiro momento, a abordagem foi **"IA First"**. Eu queria usar o que há de mais moderno na Inteligência Artificial para encontrar uma solução real. E é aqui que o Google Gemini entra.
+Foi pensando nele 👼🏻, e em tantas outras pessoas que enfrentam essa mesma barra, que eu escolhi esse projeto! E desde o primeiro momento, a abordagem foi **"IA First"**. Tudo que dava, eu usava IA para resolver.
 
 ## 🚀 Minha Jornada "IA First" na Prática:
 
