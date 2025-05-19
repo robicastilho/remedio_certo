@@ -6,7 +6,7 @@
 2. **Motivação pessoal:** nasceu da minha experiência com as receitas do psiquiatra do meu pai, que enfrentou demência por quase 20 anos.
 3. **Tudo feito com IA:** desde a pesquisa inicial (legislação, viabilidade e soluções existentes) até o desenvolvimento técnico e este README.
 4. **Como funciona?:** o paciente envia a foto da receita e recebe de volta uma transcrição compreensível com ajuda da IA. Recebe também preços e links para adquirir o medicamento.
-5. **Tecnês:**  Usei Agentes de IA para analisar a entrada do usuário, a imagem da receita e os preços. Fiz uma versão para Colab (remedio_certo.ipynb) e outra para Google Cloud (com Integração com WhatsApp para democratizar a solução)
+5. **Tecnês:**  Usei Agentes de IA para analisar a entrada do usuário, a imagem da receita e os preços. Fiz uma versão para Colab (remedio_certo.ipynb) e outra para Google Cloud (com Integração com WhatsApp para democratizar a solução). Para testar via Whatsapp, acesse: https://wa.me/556740420420
 
 ---
 
