@@ -1,0 +1,17 @@
+FROM python:3.11-slim
+
+# Instala dependências de sistema (libmagic)
+RUN apt-get update && apt-get install -y libmagic1 && apt-get clean
+
+# Diretório da aplicação
+WORKDIR /app
+COPY . /app
+
+# Instala dependências Python
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Expõe a porta padrão do Cloud Run
+EXPOSE 8080
+
+# Comando para iniciar o app
+CMD ["python", "main.py"]
